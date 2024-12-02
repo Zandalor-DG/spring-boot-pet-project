@@ -51,7 +51,7 @@
     </configuration>
     <configuration name="SpringBootBoilerplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="springboot-boilerplate" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.farukgenc.boilerplate.springboot.SpringBootBoilerplateApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring-boot-pet-project.SpringBootBoilerplateApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
