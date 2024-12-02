@@ -49,9 +49,9 @@
       <option name="filePath" />
       <method v="2" />
     </configuration>
-    <configuration name="SpringBootBoilerplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="springboot-boilerplate" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring-boot-pet-project.SpringBootBoilerplateApplication" />
+    <configuration name="SpringBootPetProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="spring-boot-pet-project" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spring-boot-pet-project.SpringBootPetProjectApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
